@@ -15,7 +15,7 @@ Pasarku adalah aplikasi WebGIS inovatif yang memungkinkan pengguna untuk:
 - Statistik dan Rekomendasi
 - Responsif dan Mobile-Friendly
 
-## 🚀 Teknologi yang Digunakan
+## 🚀 Komponen yang Digunakan
 
 ### Backend
 - PHP
@@ -32,17 +32,3 @@ Pasarku adalah aplikasi WebGIS inovatif yang memungkinkan pengguna untuk:
 - Font Awesome
 - OpenStreetMap
 - Responsive Design
-
-## 🔧 Prasyarat
-
-- PHP 7.4 atau lebih tinggi
-- MySQL 5.7 atau lebih tinggi
-- Web Server (Apache/Nginx)
-- Browser modern
-
-## 📦 Instalasi
-
-### 1. Clone Repositori
-```bash
-git clone https://github.com/username/pasarku.git
-cd pasarku
