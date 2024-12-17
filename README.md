@@ -32,3 +32,7 @@ Pasarku adalah aplikasi WebGIS inovatif yang memungkinkan pengguna untuk:
 - Font Awesome
 - OpenStreetMap
 - Responsive Design
+
+### Tampilan WebGIS
+![image](https://github.com/user-attachments/assets/4759c1a3-a3b8-4316-8e7b-8dfec634a060)
+
